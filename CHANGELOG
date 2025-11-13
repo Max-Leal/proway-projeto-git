@@ -1,0 +1,16 @@
+# Changelog
+
+## v1.0.0 - 2025-11-13
+
+- Merge pull request #4 from Max-Leal/feature/tag-pipeline
+- Adicionado uma pipeline para automatizar a geração de versões do projeto
+- Merge pull request #3 from Max-Leal/feature/containers
+- Criação de um docker-compose para automatizar os containers
+- Criação de um Dockerfile para o frontend
+- Criação de um Dockerfile para o backend
+- Merge pull request #2 from Max-Leal/feature/frontend
+- Criação do frontend
+- Merge pull request #1 from Max-Leal/feature/backend
+- feat: Adicionando arquivos de backend
+- Add Readme
+
