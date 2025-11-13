@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.0.1 - 2025-11-13
+
+- Merge pull request #5 from Max-Leal/feature/terraform
+- Adicionado variáveis da infraestrutura
+- Adicionado infraestrutura como codigo pelo terraform
+
+
 ## v1.0.0 - 2025-11-13
 
 - Merge pull request #4 from Max-Leal/feature/tag-pipeline
@@ -13,4 +20,3 @@
 - Merge pull request #1 from Max-Leal/feature/backend
 - feat: Adicionando arquivos de backend
 - Add Readme
-
