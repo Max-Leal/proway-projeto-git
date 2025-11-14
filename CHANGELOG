@@ -1,5 +1,12 @@
 # Changelog
 
+## v2.0.3 - 2025-11-14
+
+- Merge branch 'main' into develop
+- docs: update changelog for v2.0.0
+- Merge pull request #6 from Max-Leal/develop
+
+
 ## v2.0.2 - 2025-11-14
 
 - Merge pull request #8 from Max-Leal/feature/makefile
