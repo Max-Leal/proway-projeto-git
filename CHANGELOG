@@ -1,5 +1,12 @@
 # Changelog
 
+## v2.0.1 - 2025-11-14
+
+- Merge pull request #7 from Max-Leal/hotfix/readme
+- Adicionado readme sobre o projeto em si
+- Arrumado readme principal sobre o fluxo git
+
+
 ## v1.0.1 - 2025-11-13
 
 - Merge pull request #5 from Max-Leal/feature/terraform
