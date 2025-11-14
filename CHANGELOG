@@ -1,5 +1,12 @@
 # Changelog
 
+## v2.0.2 - 2025-11-14
+
+- Merge pull request #8 from Max-Leal/feature/makefile
+- Adicionado um arquivo bash para facilitar deploy em máquinas debian ou ubuntu
+- Adicionado arquivo Makefile para facilitar o fluxo de utilização do projeto
+
+
 ## v2.0.1 - 2025-11-14
 
 - Merge pull request #7 from Max-Leal/hotfix/readme
